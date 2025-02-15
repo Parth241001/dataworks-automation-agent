@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 requests
 python-dotenv
 openai
+=======
+fastapi
+uvicorn
+requests
+python-dotenv
+openai
+>>>>>>> 02646bbeef35a35e204113fe726514955ec8c706
